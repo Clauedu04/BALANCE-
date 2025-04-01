@@ -1,1 +1,1 @@
-sympy
+pip install sympy
